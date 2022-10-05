@@ -10,5 +10,6 @@ public class Section54Sorter{
         int [] arr = {1,0,2,7,3};
         sort(arr);
         System.out.println(Arrays.toString(arr));
+        System.out.println("Silly");
     }
 }
